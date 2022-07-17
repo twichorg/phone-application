@@ -1,3 +1,8 @@
+<h4>1. Phone Application(React, Reducer, Hooks, Redux, Api) </h4>
+
+<a href="https://stalwart-pony-47299d.netlify.app/" target="blank"><img src="https://i.ibb.co/kDpNwfd/Ekran-g-r-nt-s-2022-07-17-224826.png" ></a>
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
